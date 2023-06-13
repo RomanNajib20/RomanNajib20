@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RomanNajib20
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on making projects. 
+- 📫 How to reach me ... +93 778060700
